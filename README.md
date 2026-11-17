@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Mateus (Ackerman) ⚔️
 
-<!--
-**mateusackerman16/mateusackerman16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"A única coisa que nos é permitida fazer é escrever um código do qual não nos arrependamos."*
 
-Here are some ideas to get you started:
+### Sobre mim
+- 🔭 Atualmente estou estudando programação e construindo meus primeiros projetos.
+- 🧹 Focado em escrever **código limpo**, organizado e livre de bugs.
+- ☕ Movido a café preto e muita prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### O que estou aprendendo
+- Lógica de Programação
+- Git e GitHub
+- HTML, CSS, JavaScript e python
+
+### Contato
+- 📫 Me encontre por aqui no GitHub: [@mateusackerman16](https://github.com)
+-
